@@ -1,1 +1,18 @@
+html {
+font-size:16px;
+}
+.container {
+display:flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+text-align: center;
+}
+header {
+width:100vw;
+color: #808080;
+background: #ADD8E6;
+}
+
+
 
