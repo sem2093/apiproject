@@ -1,3 +1,6 @@
-# API Project
-A project to showcase ability to work with APIs. This project will be linked to my portfolio. This project will utilize multiple different APIs.
-This project Utilizes Bootstrap. https://getbootstrap.com
+# API Projects
+These projects serve the purpose of showcasing my ability to work with APIs. 
+
+ ## Built with
+ -Bootstrap
+ https://getbootstrap.com
