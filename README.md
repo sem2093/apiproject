@@ -1,5 +1,6 @@
-# API Projects
-These projects serve the purpose of showcasing my ability to work with APIs. 
+# API Project
+This project is a single page application which makes use of several different APIS. 
+
 ## links to APIs Used
 
  ## Built with
