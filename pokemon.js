@@ -1,5 +1,6 @@
 // Make a request to the PokéAPI
 //update number at end of url to cycle through Pokémon 
+function fetchData() {
 fetch('https://pokeapi.co/api/v2/pokemon/12')
   .then(response => response.json())
   .then(data => {
@@ -14,3 +15,4 @@ fetch('https://pokeapi.co/api/v2/pokemon/12')
   .catch(error => {
     console.log('Error:', error);
   });
+}
