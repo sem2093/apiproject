@@ -4,13 +4,16 @@ width:100vw;
 height:100%;
 }
 
-.container {
+div.container {
 display:flex;
 flex-direction: column;
 align-items: center;
 justify-content: center;
 text-align: center;
 margin: 100px;
+width:100vw;
+color: #808080;
+background: #ADD8E6;
 }
 
 header {
@@ -19,8 +22,10 @@ color: #808080;
 background: #ADD8E6;
 }
 div.response{
+border: 1px solid black;
+border-radius: 20px;
 hieght:auto;
-width: 100vw;
-color: white;
-background: blue;
+width:  80vw;
+color: black;
+background: white ;
 }
