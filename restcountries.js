@@ -1,3 +1,6 @@
+function fetchCountries(){
+
+
 // Define the REST Countries API URL for retrieving a list of countries
         const apiUrl = 'https://restcountries.com/v3.1/all';
 
@@ -21,3 +24,4 @@
             .catch(error => {
                 console.error('Error fetching country data:', error);
             });
+}
