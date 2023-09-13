@@ -22,17 +22,19 @@ margin: 50px;
 width:100vw;
 color: #808080;
 background: #ADD8E6;
+border: 1px solid black;
+border-radius: 20px;
+width: 90vw;
 }
 
-header {
+h1 {
 width:100vw;
-color: #808080;
+color: black;
 background: #ADD8E6;
 }
 div.response{
 border: 1px solid black;
 border-radius: 20px;
-hieght:auto;
 width:  80vw;
 color: black;
 background: white ;
